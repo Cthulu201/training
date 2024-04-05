@@ -22,3 +22,6 @@ https://www.w3.org/
 https://validator.w3.org/
 https://jigsaw.w3.org/css-validator/
 https://whatwg.org/
+https://caniuse.com/
+https://w3schools.com/browsers/browsers_stats.asp
+
