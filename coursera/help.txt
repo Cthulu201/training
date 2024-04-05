@@ -11,3 +11,13 @@ sudo npm install -g browser-sync
 # Essential HTML5 Tags
 #
 
+
+#
+# Links
+#
+https://jsfiddle.net/
+https://codepen.io/
+https://css-tricks.com/
+https://www.w3.org/
+https://validator.w3.org/
+https://jigsaw.w3.org/css-validator/
