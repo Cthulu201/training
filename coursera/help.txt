@@ -38,4 +38,4 @@ https://whatwg.org/
 https://caniuse.com/
 https://w3schools.com/browsers/browsers_stats.asp
 https://clearlydecoded.com/recommended-books/
-
+https://github.com/microsoft/vscode/wiki/Commit-Signing
