@@ -1,7 +1,35 @@
-p {
+body {
+    text-align: justify;
+    font-family: sans-serif;
+}
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+#header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: sans-serif;
+}
+#footer {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: sans-serif;
+}
+#first {
     color: blue;
 }
-
-h1 {
-    color: green;
+#second {
+    color: red;
+}
+#third {
+    color: aqua;
+}
+#fourth {
+    color: brown;
+}
+#fifth {
+    color: peru;
 }
