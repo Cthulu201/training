@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
 body {
     text-align: justify;
     font-family: sans-serif;
@@ -24,16 +29,26 @@ h1 {
 }
 #first {
     color: blue;
+    width: 700px;
+    margin: auto;
 }
 #second {
     color: red;
+    width: 500px;
+    margin: auto;
 }
 #third {
     color: aqua;
+    width: 700px;
+    margin: auto;
 }
 #fourth {
     color: brown;
+    width: 500px;
+    margin: auto;
 }
 #fifth {
     color: peru;
+    width: 700px;
+    margin: auto;
 }
